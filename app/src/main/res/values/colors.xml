@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FD4B42</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#212121</color>
+    <color name="Error">#D81B60</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="CardColor">#FD4B42</color>
+    <color name="overlayColor">#55333639</color>
+    <color name="border_color">#AA333639</color>
+
+    <color name="signUpBtn">#97bab1</color>
+    <color name="SignUpBtnActive">#6c9eb0</color>
+    <color name="background">#f0e3b9</color>
+    <color name="color3">#716894</color>
+    <color name="color4">#361f3a</color>
+</resources>

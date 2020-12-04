@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "361083570381",
+    "project_id": "lacochalita-72d1d",
+    "storage_bucket": "lacochalita-72d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361083570381:android:e60e5c75fcbf38ce040184",
+        "android_client_info": {
+          "package_name": "com.example.lacochalitafinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361083570381-3km9sqegvt0cbki19kmk7cjj04laq0d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lacochalitafinal",
+            "certificate_hash": "dfe5f63e0d812aeed61edb0ba5b032f241a42b0d"
+          }
+        },
+        {
+          "client_id": "361083570381-7pa8i75etrjav3bjnrbc1anq0ogpgtuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArP1cZILhjJzEpxgKqqehLLXRNi0t7d78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361083570381-7pa8i75etrjav3bjnrbc1anq0ogpgtuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
