@@ -13,6 +13,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.lacochalitafinal.Common.Common;
 import com.example.lacochalitafinal.Model.UserModel;
 import com.example.lacochalitafinal.R;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -116,6 +117,8 @@ public class Register extends AppCompatActivity implements View.OnClickListener 
                             //UserModel user = new UserModel();
 
                             UserModel user = new UserModel(name, email,mAuth.getCurrentUser().getUid());
+
+                            Common.currentUser = user;
 
 
 
